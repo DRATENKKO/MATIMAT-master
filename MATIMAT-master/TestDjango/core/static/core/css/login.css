@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(217, 217, 217);  /* fallback for old browsers */
+    font-family: 'Arial';
+    padding: 0;
+    margin: 0;
+    font-size: 15px;
+    
+}
+
+.shoping{
+    font-size: 25px;
+    color: #555;
+}
+input {
+    width: 100%;
+}
